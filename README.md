@@ -1,2 +1,2 @@
 # ZERSTORER
-no c 
+Es un virus 
